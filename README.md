@@ -1,4 +1,4 @@
-# Minecraft Plugin-Economy&Trade-
+# Minecraft Plugin [Economy&Trade]
 Self-made plug-in system that includes trading and economic systems.
 <p>This is the first version of this plugin, with more functions such as PVP, mini-games, backpack expansion, etc.</p>
 
