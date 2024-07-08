@@ -1,0 +1,8 @@
+name: minecraftPlugin
+version: '${project.version}'
+main: myplugin.tutorial.MinecraftPlugin
+api-version: '1.21'
+commands:
+  money:
+    description: Check your balance or give money to others
+    usage: /money [givemoney <amount>]
