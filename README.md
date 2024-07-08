@@ -2,7 +2,7 @@
 Self-made plug-in system that includes trading and economic systems.
 Plugin supports the 1.21 server and does not support single-player use.
 <p>This is the first version of the plug-in, with more functions, such as PVP, mini-games, backpack expansion, etc. 
-  The future goal will be to focus on an all-in-one plug-in package. Players can enjoy multiple effects as long as they download one plug-in.</p>
+</p><p>The future goal will be to focus on an all-in-one plugin package. Players can enjoy multiple effects as long as they download one plug-in.</p>
 
 <h2>Economic System</h2>
 <p>Enter <code>/money</code> to check your balance. The balance can be used to make transactions in the store.</p>
