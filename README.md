@@ -8,4 +8,7 @@ Self-made plug-in system that includes trading and economic systems.
 <h2>Trading System</h2>
 <p>When you enter the server where this plugin is installed, a branch named "Trading" will appear in your backpack. <code>Right-click</code>  to open the store function, where you can buy or sell your own goods. This saves players from spending extra time building their own exchanges.</p>
 
+<h2>Logging System</h2>
+<p>Basic server welcome prompts and introduction to related functions</p>
+
 <p>&copy; 2024 ben6370. All rights reserved.</p>
